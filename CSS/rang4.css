@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.touche-validé{
+    height: 100%;
+    width: 8.5%;
+    border: gold 2px solid;
+
+}
+
+.touche-z{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+
+}
+
+.touche-x{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+    
+}
+.touche-c{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-v{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-b{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-n{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-m{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-verg{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-ptn{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}
+.touche-pnt-excalamation{
+    height: 100%;
+    width: 5.5%;
+    border: gold 2px solid;
+}

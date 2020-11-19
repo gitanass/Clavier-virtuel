@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.touche1{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+
+}
+
+.touche2{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+
+}
+
+.touche3{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+    
+}
+.touche4{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche5{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche6{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche7{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche8{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche9{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche0{
+    height: 100%;
+    width: 5.5%;
+    border: chocolate 2px solid;
+}
+.touche-sup{
+    height: 100%;
+    width: 8.5%;
+    border: chocolate 2px solid;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.touche-espace{
+    height: 100%;
+    width: 30%;
+    border: burlywood 2px solid;
+}

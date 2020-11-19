@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.touche-q{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+
+.touche-w{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+
+}
+
+.touche-e{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+    
+}
+.touche-r{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-t{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-y{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-u{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-i{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-o{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}
+.touche-p{
+    height: 100%;
+    width: 5.5%;
+    border: green 2px solid;
+}

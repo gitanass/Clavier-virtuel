@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.touche-caps{
+    height: 100%;
+    width: 8.5%;
+    border: fuchsia 2px solid;
+
+}
+
+.touche-a{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+
+}
+
+.touche-s{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+    
+}
+.touche-d{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-f{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-g{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-h{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-j{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-k{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-l{
+    height: 100%;
+    width: 5.5%;
+    border: fuchsia 2px solid;
+}
+.touche-rtt{
+    height: 100%;
+    width: 8.5%;
+    border: fuchsia 2px solid;
+}
