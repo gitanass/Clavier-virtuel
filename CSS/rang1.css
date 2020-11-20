@@ -8,6 +8,9 @@
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -15,6 +18,9 @@
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -22,45 +28,72 @@
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .touche4{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche5{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche6{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche7{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche8{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche9{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche0{
     height: 100%;
     width: 5.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-sup{
     height: 100%;
     width: 8.5%;
     border: chocolate 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

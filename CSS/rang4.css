@@ -8,6 +8,9 @@
     height: 100%;
     width: 8.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -15,6 +18,9 @@
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -22,45 +28,72 @@
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .touche-c{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-v{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-b{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-n{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-m{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-verg{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-ptn{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-pnt-excalamation{
     height: 100%;
     width: 5.5%;
     border: gold 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

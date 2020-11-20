@@ -8,6 +8,9 @@
     height: 100%;
     width: 8.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -15,52 +18,81 @@
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .touche-s{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .touche-d{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-f{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-g{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-h{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-j{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-k{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-l{
     height: 100%;
     width: 5.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-rtt{
     height: 100%;
     width: 8.5%;
     border: fuchsia 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

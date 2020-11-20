@@ -8,4 +8,7 @@
     height: 100%;
     width: 30%;
     border: burlywood 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

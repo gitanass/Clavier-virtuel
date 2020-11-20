@@ -8,12 +8,18 @@
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .touche-w{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -21,40 +27,64 @@
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .touche-r{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-t{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-y{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-u{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-i{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-o{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .touche-p{
     height: 100%;
     width: 5.5%;
     border: green 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
